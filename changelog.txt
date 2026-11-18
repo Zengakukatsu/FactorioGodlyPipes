@@ -1,0 +1,8 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Author: Zenga
+Date: 2026-11-05
+  Features:
+    - Play custom sounds when placing or hand-crafting a normal pipe.
+    - Share a 20-tick sound cooldown between both actions, separately for each player.
+    - Allow each player to change the five percentages in Mod Settings.
