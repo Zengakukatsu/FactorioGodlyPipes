@@ -10,4 +10,4 @@ The probability of each sound clip can be adjusted through the in-game mod setti
 2. Place the ZIP directly into your Factorio mods folder:
 
    ```text
-   %APPDATA%\Factorio\mods
+   %APPDATA%\Roaming\Factorio\mods
